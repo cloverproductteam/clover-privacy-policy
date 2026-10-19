@@ -27,7 +27,13 @@ If you enable biometric app protection, Clover uses your device's authentication
 
 ## 4. Widgets
 
-If you use Clover widgets, information displayed by a widget may be accessible on your device's Home Screen. Consider your device's privacy settings when choosing what information is visible.
+Clover may offer Home Screen widgets that display information from your entries, such as a daily note or a reminder of a previous entry.
+
+To display this information, widgets may access selected Clover data stored on your device through the app's local storage or a shared storage area used by the app and its widget extension. This access allows the widget to show relevant information without requiring Clover to upload your journal entries to its own server.
+
+Information displayed in a widget may be visible to anyone who can see your device's screen, depending on your device settings. Consider this when choosing what information to display.
+
+Widget availability and the information shown may depend on the version of Clover you use and the settings available in the app.
 
 ## 5. Sharing entries
 
