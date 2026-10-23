@@ -17,7 +17,7 @@ Clover stores information you enter into the app locally on your device. This ma
 - Your app settings, reminder preferences and onboarding status.
 - Your Clover+ unlock status and review-prompt preferences.
 
-Clover does not currently require an account. The app does not operate its own server to collect or store your journal entries, and it does not currently include its own analytics or advertising SDKs.
+Clover does not currently require an account. The app does not operate its own server to collect or store your journal entries, and it does not currently include its own analytics or advertising SDKs. Purchase checks are handled by a third-party service, described in section 7.
 
 ## 2. Notifications
 
@@ -49,8 +49,6 @@ When you share an image, the image and any included text are passed to the app o
 
 Clover stores app data locally using your device's app storage. Depending on your device settings and backup configuration, some app data may be included in an iCloud or computer backup.
 
-If you use Clover's export feature, a backup file containing your entries is created and saved or shared wherever you choose. Clover does not receive a copy of this file.
-
 Clover does not currently provide its own cloud-sync service. Clover cannot control how Apple or other backup providers handle data under their own services and settings.
 
 Deleting Clover or changing your device's backups may affect your locally stored entries. Data retained in existing backups may not be deleted immediately.
@@ -59,7 +57,9 @@ Deleting Clover or changing your device's backups may affect your locally stored
 
 Clover offers an optional one-time Clover+ purchase through Apple's in-app purchase system. Apple processes all transactions under its own terms and privacy practices. Clover does not receive your name, payment card details or billing information.
 
-Clover only stores whether Clover+ has been unlocked on your device. You can restore a previous purchase at any time using Restore Purchases in the app's Settings.
+To check and restore purchases, Clover uses RevenueCat, a third-party purchase management service. RevenueCat receives your purchase history and an anonymous app user ID, which is not linked to your name or identity. RevenueCat does not receive your journal entries. You can read RevenueCat's privacy policy at https://www.revenuecat.com/privacy.
+
+You can restore a previous purchase at any time using Restore Purchases in the app's Settings.
 
 ## 8. Data retention and deletion
 
