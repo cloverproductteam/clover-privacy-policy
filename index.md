@@ -1,8 +1,12 @@
 # Clover Privacy Policy
 
-**Last updated:** 19 October 2026
+**Last updated:** 23 October 2026
 
 Clover helps you keep track of the little things that make each day special. Your privacy matters, and this policy explains how Clover handles your information.
+
+## Support
+
+Need help with Clover? Email us at **cloverproductteam@gmail.com** and we'll get back to you as soon as we can.
 
 ## 1. Information Clover stores
 
@@ -45,15 +49,17 @@ When you share an image, the image and any included text are passed to the app o
 
 Clover stores app data locally using your device's app storage. Depending on your device settings and backup configuration, some app data may be included in an iCloud or computer backup.
 
+If you use Clover's export feature, a backup file containing your entries is created and saved or shared wherever you choose. Clover does not receive a copy of this file.
+
 Clover does not currently provide its own cloud-sync service. Clover cannot control how Apple or other backup providers handle data under their own services and settings.
 
 Deleting Clover or changing your device's backups may affect your locally stored entries. Data retained in existing backups may not be deleted immediately.
 
 ## 7. Clover+ purchases
 
-Clover plans to offer a one-time Clover+ purchase through Apple's in-app purchase system. When purchases are enabled, Apple processes transactions under its own terms and privacy practices. Clover does not receive your full payment card details.
+Clover offers an optional one-time Clover+ purchase through Apple's in-app purchase system. Apple processes all transactions under its own terms and privacy practices. Clover does not receive your name, payment card details or billing information.
 
-Purchase handling and the information available to Clover may depend on the final implementation.
+Clover only stores whether Clover+ has been unlocked on your device. You can restore a previous purchase at any time using Restore Purchases in the app's Settings.
 
 ## 8. Data retention and deletion
 
